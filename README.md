@@ -7,10 +7,9 @@ An Apple AR enabled device is required.
 
 ## Installation
 
-Download and install HeadTrack plugin to your X-Plane 11 plugin folder.
-[HeadTrack](https://github.com/amyinorbit/headtrack/releases)
+Download and install [HeadTrack](https://github.com/amyinorbit/headtrack/releases) plugin to your X-Plane 11 plugin folder.
 
-Build HeadTrackUDP to your test device, with Xcode (my version is 13.4, iOS 15.4).
+Build this project to your iOS test device, with Xcode (my version is 13.4, iOS 15.4).
 I'm using an iPhone 12 pro.
 
 ## Support
